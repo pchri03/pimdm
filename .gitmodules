@@ -1,0 +1,3 @@
+[submodule "libeventcore"]
+	path = libeventcore
+	url = git@github.com:pchri03/libeventcore.git
